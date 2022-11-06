@@ -1,0 +1,18 @@
+:root {
+    --black: rgba(0,0,0,1);
+    --white: rgba(255,255,255,1);
+
+    --font-size-m: 16px;
+    --font-size-l: 20px;
+    --font-size-x1: 36px;
+    
+    --font-family-inter: "Inter";
+}
+
+.inter-sem-bold-white-20px {
+    color: var(--white);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-l);
+    font-weight: 600;
+    font-style: normal;
+}
