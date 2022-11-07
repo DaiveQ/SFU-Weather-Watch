@@ -42,6 +42,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## Debugging
 If the camera images fail to load, this is most likely because web-vitals are not istalled. To istall:
 `npm i web-vitals --save-dev` in terminal
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
