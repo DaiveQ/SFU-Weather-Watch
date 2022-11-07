@@ -33,6 +33,8 @@ function Home() {
   const [temperature, setTemperature] = useState("...");
   const [weather, setWeather] = useState();
 
+  document.title = "SFU Weather Watch"
+
   return (
 
     <div className="App bg-img">
