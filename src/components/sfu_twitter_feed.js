@@ -18,7 +18,7 @@ function SFUTwitterFeed() {
       <TwitterTimelineEmbed
         sourceType="profile"
         screenName="SFU"
-        options={{ height: 400 }}
+        options={{ height: window.innerHeight - 50}}
       />
     </div>
   )
